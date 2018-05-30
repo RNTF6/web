@@ -12,3 +12,6 @@
 >问卷调查
 1. 是前期充分的客户需求的调查报告。    
 [详细介绍](https://github.com/RNTF6/web/blob/master/%E9%97%AE%E5%8D%B7%E8%B0%83%E6%9F%A5.doc)
+>项目需求改进
+1. 对项目中存在的不足做了详细的补充。       
+[详细信息](https://github.com/RNTF6/web/blob/master/%E4%BC%9A%E8%AE%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E3%80%8A%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%A6%81%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6%E3%80%8B.doc)
