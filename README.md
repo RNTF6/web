@@ -15,3 +15,6 @@
 >项目需求改进
 1. 对项目中存在的不足做了详细的补充。       
 [详细信息](https://github.com/RNTF6/web/blob/master/%E4%BC%9A%E8%AE%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E3%80%8A%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%A6%81%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6%E3%80%8B.doc)
+> 团队作业6—团队项目系统设计改进与详细设计
+1. [会议管理系统《软件系统概要设计说明书》V2.0](https://github.com/RNTF6/web/blob/master/%E4%BC%9A%E8%AE%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E3%80%8A%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%A6%81%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6%E3%80%8BV2.0.doc)
+2. [会议管理系统《软件系统详细设计说明书》V1.0](https://github.com/RNTF6/web/blob/master/%E4%BC%9A%E8%AE%AE%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E3%80%8A%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E8%AF%A6%E7%BB%86%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6%E3%80%8BV1.0.doc)
